@@ -1,0 +1,16 @@
+div{
+    width: 100px;
+    height: 100px;
+    border: 1px solid orange;
+}
+
+img {
+    border: 30px groove orangered;
+}
+.dogzero {
+    border: 30px double orangered;}
+.dogone {
+    border: 30px dotted orangered;}
+.dogtwo {
+    border: 30px dashed orangered;
+}
