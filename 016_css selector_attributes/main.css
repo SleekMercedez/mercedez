@@ -1,0 +1,15 @@
+ .contentedidable{
+     color: blue;
+     border: 1px dashed green;
+ }
+
+ .emphasize{
+     color: orange;
+ }
+
+ [src] {
+     border: 2px dashed black;
+ }
+
+ [href] {border: 5px dashed green;
+ }
