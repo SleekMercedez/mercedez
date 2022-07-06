@@ -1,0 +1,21 @@
+body{
+    font-size: 10px;
+    border: 10px solid orange;;
+    text-align: center;
+}
+
+a:link {
+    color: green;
+}
+
+a:visited {
+    color: blue;
+}
+
+a:hover {
+    color: red;
+}
+
+a:active {
+    color: yellow;
+}
