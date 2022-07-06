@@ -1,0 +1,10 @@
+div {
+    width: 200px;
+    height: 100px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    border: groove 20px;
+    background-image: url("../../00_img/pupy.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
