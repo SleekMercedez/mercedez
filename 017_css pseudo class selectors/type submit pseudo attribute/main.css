@@ -1,0 +1,25 @@
+
+/*this input is for the box only specification*/
+input{
+    border: 1px solid blue;;
+    margin-top: 2px;
+    font-size: 2rem;
+    display: block;
+    box-sizing: border-box;
+
+}
+
+.no {
+    margin-top: 5px;
+    border: 2px solid red;
+}
+/*i used "class: .no" instead of type submit here for the submit button specification*/
+
+.no:hover {
+    background-color: orange;
+}
+.no:active {
+    background-color: purple;
+}
+
+
