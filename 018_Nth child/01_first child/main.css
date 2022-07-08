@@ -1,0 +1,11 @@
+
+body {
+    font-size: 30px }
+
+li:first-child {
+    color : blue;
+}
+
+ul:first-child {
+    color: yellow;
+}
