@@ -1,0 +1,12 @@
+body {
+    font-size: 30px;
+}
+
+
+
+.yes:hover {
+    background-color: red;
+}
+.yes:focus {
+    background-color: blue;
+}
