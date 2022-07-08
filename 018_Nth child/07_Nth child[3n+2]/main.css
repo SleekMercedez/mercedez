@@ -1,0 +1,17 @@
+
+body {
+    font-size: 30px }
+
+
+/*this is starting at 2, going every three*/
+li:nth-child(3n+2)
+{color : blue;}
+
+
+li:nth-child(3n+9) {
+    color: orangered;
+}
+
+li:nth-child(9n+3) {
+    color: pink;
+}
