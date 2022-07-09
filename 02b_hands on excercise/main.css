@@ -1,0 +1,27 @@
+html {
+    height: 700px;
+    background-color: blue;
+    width: 700px;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+
+
+}
+body {
+    border: 5px solid black;
+    height: 710px;
+    background-color: green;
+    background-repeat: no-repeat;
+}
+
+img {
+    border: 10px groove sandybrown;
+    border-radius: 100%;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+}
+
+h1 {
+    color: blue;
+}

@@ -1,0 +1,24 @@
+* {
+    border: 1px dashed red;
+    margin-bottom: 5px;
+}
+html {
+    border: 1px groove green;
+}
+body {
+    border: 1px dashed purple;
+}
+* {
+    border: 1px dashed yellow;
+}
+div {
+    height: 200px;
+    border: 5px solid black;
+}
+ /*for centralization, margin and block has to go together*/
+img {
+    margin: 0 auto;
+    display: block;
+    border: 5px solid red;
+    padding: 2px;
+}
