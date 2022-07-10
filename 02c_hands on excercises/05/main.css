@@ -1,0 +1,7 @@
+p:first-child {
+    color: green;
+}
+
+p:first-line{
+    font-size: 20px;
+}
