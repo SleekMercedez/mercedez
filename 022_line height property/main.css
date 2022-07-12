@@ -1,0 +1,10 @@
+div {
+    width: 200px;
+    height: 200px;
+    color: violet;
+    border: 2px solid black;
+    text-align: center;
+    line-height: 200px;
+    margin: 0 auto;
+    display: block;
+}

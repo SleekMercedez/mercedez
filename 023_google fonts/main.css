@@ -1,0 +1,17 @@
+
+
+p {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 4rem;
+}
+
+#ONE {
+    font-weight: 100 ;
+}
+ #two{
+    font-weight: 500;
+}
+ #three{
+    font-weight: 900;
+}
