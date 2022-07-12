@@ -1,0 +1,11 @@
+p {
+    font-family: fantasy;
+}
+/*this font below like the one above has a family name[hidden] and a generic name[property value] and i am only using the first one now*/
+/*p { */
+/*    font-family: sans-serif;*/
+
+/*other fonts include pixels, viewport and rem: view port can be used when you want font size to be relative to webpage sixe. rem is good cos it is relative to the root of the default browser font setting, so even if someone locally changes font size, rem is still relative to all that*/
+p {
+    font-size: 1.5rem;
+}
