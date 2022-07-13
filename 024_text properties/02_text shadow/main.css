@@ -1,0 +1,6 @@
+DIV {
+    font-size: 25rem;
+    text-align: center;
+    /*for text shadow below, we have alignment along x axis, y axis, blur radius and colour*/
+    text-shadow: 3px 5px 2px orange;
+}

@@ -1,0 +1,7 @@
+body {
+ text-align: center;
+    font-size: 5rem;
+}
+ /*for text decoration, you can use all three values at the same time or only one*/
+
+p   {text-decoration: line-through underline overline}
