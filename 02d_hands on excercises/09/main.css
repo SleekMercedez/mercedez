@@ -1,0 +1,8 @@
+
+/*text indent doesnt go well together with first line specification*/
+p {
+    font-style: italic;
+    margin-bottom: 2px;
+    text-indent: 1rem;
+
+}
