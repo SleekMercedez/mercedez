@@ -1,0 +1,18 @@
+
+body
+{display: flex;
+flex-flow: row nowrap;
+justify-content: normal;
+align-items: flex-end;
+
+}
+div {
+    width: 45px;
+    height: 45px;
+    border: 1px solid brown;
+    flex-grow: 1;
+}
+
+#mo {
+    flex-grow: 2;
+}

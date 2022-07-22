@@ -1,0 +1,16 @@
+/*the display flex property is automatically done with default seeting of flex flow as direction and wrap into default values of row and nowrap*/
+body {
+
+    display: flex;
+
+}
+
+
+
+div {
+    width: 75px;
+    height: 75px;
+    border: 1px solid black;
+    background-color: seashell;
+    text-align: center;
+}

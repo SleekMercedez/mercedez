@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    height: 500px;
+    border: 1px solid red;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+div {
+
+     border: 2px solid red;
+    height: 50px;
+    width: 50px;
+
+}
+
+#mo {
+    align-self: flex-start ;
+
+}

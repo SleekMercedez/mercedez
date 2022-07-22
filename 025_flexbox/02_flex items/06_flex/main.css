@@ -1,0 +1,38 @@
+
+body
+{display: flex;
+flex-flow: row nowrap;
+justify-content: normal;
+align-items: flex-end;
+
+}
+
+/*width and flex shrink go hand in hand. one must be out for the other to function*/
+
+div {
+   /*width: 400px;*/
+    height: 45px;
+    border: 1px solid brown;
+    flex-basis: 400px;}
+
+
+/*flex represents fex grow, flex shrink, and flex basis*/
+
+.j {
+    flex: 3 1 auto;
+}
+
+#mo {
+    flex: 4 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+

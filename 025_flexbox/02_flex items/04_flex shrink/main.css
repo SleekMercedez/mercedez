@@ -1,0 +1,29 @@
+
+body
+{display: flex;
+flex-flow: row nowrap;
+justify-content: normal;
+align-items: flex-end;
+
+}
+div {
+    height: 45px;
+    border: 1px solid brown;
+    width: 400px;
+}
+
+
+/*width and flex shrink go hand in hand. one must be out for the other to function*/
+
+.j{
+    /*width: 45px;*/
+    flex-shrink: 2;}
+
+
+#mo {
+
+/*width: 45px;*/
+flex-shrink: 1;}
+
+
+

@@ -1,0 +1,37 @@
+
+body
+{display: flex;
+flex-flow: row nowrap;
+justify-content: normal;
+align-items: flex-end;
+
+}
+
+/*width and flex shrink go hand in hand. one must be out for the other to function*/
+
+div {
+   /*width: 400px;*/
+    height: 45px;
+    border: 1px solid brown;
+flex-basis: 400px;}
+
+
+
+
+.j{
+    flex-shrink: 2;
+    flex-grow: 2;
+}
+
+#mo {
+    flex-shrink: 2;
+    flex-grow: 2;
+}
+
+
+
+
+
+
+
+
