@@ -1,0 +1,46 @@
+nav, ul, li, main, section {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+
+}
+body{
+
+    display: flex;
+    flex-flow: row wrap;
+    border: 1px solid red;
+    /*width: 100%;*/
+    margin: 20px auto;
+
+
+}
+
+main {
+    width: 100%;
+    text-align: center;
+    border: 1px solid red;
+    padding: 10px;
+}
+
+
+nav {
+    display: flex;
+    flex-flow: row wrap;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+
+}
+
+li {
+    list-style: none;
+    justify-content: center;
+}
+
+ul {
+    justify-content: space-around;}
+    /*display: flex;*/
+    /*flex-flow: column nowrap;*/
+
+
