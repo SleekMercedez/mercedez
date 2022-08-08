@@ -1,0 +1,21 @@
+ nav {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+li {
+    flex-flow: column nowrap;
+    background-color: skyblue;
+    height: 45px;
+    margin-top: 1px;
+    list-style: none;
+     width: 100%;
+     text-align: center;
+}
+
+   a {
+       text-decoration: none;
+   }

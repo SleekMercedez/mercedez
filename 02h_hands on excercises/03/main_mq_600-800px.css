@@ -1,0 +1,66 @@
+body {
+    display: flex;
+    flex-flow: row wrap;
+    padding: 0;
+    margin: 0;
+
+    /*width: 100%;*/
+}
+
+.lo
+{
+    background-color: navy;
+    height: 75px;
+
+    width: 100%;
+
+    order: 2;
+}
+
+.mo
+{
+    background-color: palegreen ;
+    height: 75px;
+    width: 100%;
+    order: 1;
+}
+
+.no
+{
+    background-color: black ;
+    height: 75px;
+    width: 50%;
+    order: 4;
+}
+
+.oo
+{
+    background-color: violet;
+    height: 75px;
+    width: 50%;
+    order: 3;
+}
+
+.po
+{
+    background-color: grey;
+    height: 75px;
+    width: 70%;
+    order:6 ;
+}
+
+.qo
+{
+    background-color:lightblue ;
+    height: 75px;
+    width: 30%;
+    order: 7;
+}
+
+.ro
+{
+    background-color: fuchsia;
+    height: 75px;
+    width: 100%;
+    order: 5;
+}

@@ -1,0 +1,58 @@
+body {
+    display: flex;
+    flex-flow: row wrap;
+    padding: 0;
+    margin: 0;
+
+    /*width: 100%;*/
+}
+
+.lo
+{
+    background-color: navy;
+    height: 75px;
+
+    width: 100%;
+}
+
+.mo
+{
+    background-color: palegreen ;
+    height: 75px;
+    width: 100%;
+}
+
+.no
+{
+    background-color: black ;
+    height: 75px;
+    width: 50%;
+}
+
+.oo
+{
+    background-color: violet;
+    height: 75px;
+    width: 50%;
+}
+
+.po
+{
+    background-color: grey;
+    height: 75px;
+    width: 70%;
+}
+
+.qo
+{
+    background-color:lightblue ;
+    height: 75px;
+    width: 30%;
+}
+
+.ro
+{
+    background-color: fuchsia;
+    height: 75px;
+    width: 100%;
+}

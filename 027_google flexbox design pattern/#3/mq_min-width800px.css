@@ -1,0 +1,36 @@
+.t1
+{
+    width: 25% ;
+    /*height: 300px;*/
+
+
+}
+
+
+
+.t2
+{
+    width: 75%;
+    border: 2px solid red ;
+    /*height: 159px;*/
+
+}
+
+.t3 {
+    height: 183px ;
+}
+
+.t4 {
+    height: 183px;
+}
+
+body {
+    display: flex;
+    flex-flow: row nowrap;
+    width: 85%;
+    height: 370px;
+    margin: 0 auto;
+
+}
+
+

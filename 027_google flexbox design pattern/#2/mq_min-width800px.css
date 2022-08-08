@@ -1,0 +1,17 @@
+body {
+    height: 400px;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.g {
+    width: 20%;
+}
+
+.h {
+    width: 60% ;
+}
+
+.i {
+    width: 20%;
+}

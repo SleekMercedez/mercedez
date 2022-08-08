@@ -1,0 +1,37 @@
+body {
+    display: flex;
+    flex-flow: row wrap;
+    text-align: center;
+    width: 90%;
+}
+
+header { width: 100%;
+    height: 40px;
+    order: 1;
+
+}
+
+.bg { width: 15%;
+    height: 100px;
+    order:2 ;
+
+}
+
+section {
+    width: 70%;
+    height: 100px;
+    order: 3;
+}
+
+
+.bh {
+     width: 15%;
+    height: 100px;
+    order: 4;
+}
+
+footer { order: 5;
+    width: 100%;
+    height: 40px;}
+
+

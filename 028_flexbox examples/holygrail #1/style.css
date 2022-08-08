@@ -1,0 +1,25 @@
+header {
+    background-color: orangered;
+}
+
+section {
+
+    width: 100%;
+    background-color: skyblue;
+}
+
+
+
+.bg {
+    background-color: yellow ;
+}
+
+.bh {
+    background-color: pink;
+}
+
+
+footer {
+    width: 100%;
+    background-color: green;
+}

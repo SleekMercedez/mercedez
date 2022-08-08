@@ -1,0 +1,33 @@
+.g {
+    width: 40% ;
+    height: 400px ;
+    order:2 ;
+}
+
+.h {
+    width: 60% ;
+    height: 400px;
+    order:1 ;
+}
+
+.i {
+    width: 100%;
+    height: 400px ;
+    order:3 ;
+}
+
+
+.g .h .i {
+    padding: 0;
+    margin: 0;
+
+}
+
+body{
+    display: flex;
+    flex-flow: row wrap;
+    width: 100%;
+    height: 300px;
+    margin: 0 auto;
+    border: 1px solid black;
+}

@@ -1,0 +1,26 @@
+body {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-flow: row wrap;
+    border: 5px solid red;
+}
+
+.a1 {
+    width: 70% ;
+}
+
+.b1 {
+    width: 30%;
+}
+.c1 {
+    width: 33.33%;
+}
+
+.d1 {
+    width: 33.33%;
+}
+
+.e1 {
+    width: 33.33%;
+}
